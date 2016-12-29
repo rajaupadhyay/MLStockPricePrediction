@@ -56,7 +56,8 @@ def key_stats(gather= "Total Debt/Equity (mrq):"):
                         value = float(source.split(gather+'</td><td class="yfnc_tabledata1">')[1].split('</td>')[0])
                     except Exception as e:
                         try:
-                            value = float(source.split(gather + '</td>\n<td class="yfnc_tabledata1">')[1].split('</td>')[0])
+                            value = float(source.split(gather + '</td>\n<td class="yfnc_tabledata1"'
+                                                                '>')[1].split('</td>')[0])
                             #print((str(e)) + file + ticker + str(value))
                         except Exception as e:
                             pass
