@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="297775bd-ebab-4fb6-89a5-182141d24f3e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ml.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p4Investing.py" afterPath="$PROJECT_DIR$/p4Investing.py" />
     </list>
     <ignored path="MLInvesting.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -329,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1483025686735</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added status for outperformance or underperformance of stock compared to S&amp;P 500">
+      <created>1483049865018</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1483049865018</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
