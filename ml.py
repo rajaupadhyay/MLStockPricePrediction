@@ -35,7 +35,6 @@ print(clf.predict([10.58, 10.76]))
 
 # GRAPH DISPLAY ******************************
 w = clf.coef_[0]
-
 print(w)
 
 # Learning rate
