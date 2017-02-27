@@ -2,7 +2,7 @@ import pandas as pd
 import os
 import time
 from datetime import datetime
-
+import re
 from time import mktime
 import matplotlib
 import matplotlib.pyplot as plt
@@ -10,7 +10,6 @@ from matplotlib import style
 
 style.use("dark_background")
 
-import re
 
 path = "/Users/RAJA/Desktop/COMPUTER SCIENCE/intraQuarter"
 
@@ -103,7 +102,7 @@ def Key_Stats(gather=['Total Debt/Equity',
 
     ticker_list = []
 
-    for each_dir in stock_list[1:25]:
+    for each_dir in stock_list[1:50]:
         each_file = os.listdir(each_dir)
         #ticker = each_dir.split("\\")[1]
         ticker = each_dir.split("_KeyStats")[1].replace('/', '')
