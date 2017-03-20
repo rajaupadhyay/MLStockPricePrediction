@@ -27,8 +27,8 @@
       <file leaf-file-name="Regression.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="292">
+              <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -418,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1489705264303</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Regression with Features and labels">
+      <created>1490047877543</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1490047877543</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -461,7 +468,8 @@
     <MESSAGE value="update features to be drawn from Yahoo Finance" />
     <MESSAGE value="tried to implement first version of linear SVC" />
     <MESSAGE value="Regression" />
-    <option name="LAST_COMMIT_MESSAGE" value="Regression" />
+    <MESSAGE value="Regression with Features and labels" />
+    <option name="LAST_COMMIT_MESSAGE" value="Regression with Features and labels" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -739,8 +747,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Regression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="292">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
